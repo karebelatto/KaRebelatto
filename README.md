@@ -1,7 +1,7 @@
 
 
 
-# Meu nome é Karine Rebelatto✨ 
+# Meu nome é Karine Rebelatto
 
 ## Eu sou Front-end developer e Designer Digital
 
