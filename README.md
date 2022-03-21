@@ -3,8 +3,9 @@
 
 ## Meu nome é Karine Rebelatto✨ 
 
-#Eu sou Front-end developer e Designer Digital
+# Eu sou Front-end developer e Designer Digital]
 
+- Me Graduei em Design Digital pela PUC-PR em 2021, desde criança fui muito conectada com multimídia e tecnologia, brincava de editar páginas HTML e ser HOST de rádio em 2016 me mudei para o Paraná em busca de estudar algo voltado nessa área e coinscidentemente comecei Design sem saber direito o que vinha pela frente, descobri programação e desde então fiquei com uma pulguinha atrás da orelha por não ter certeza se tinha me identificado ou se era aquilo mesmo que eu devia fazer, finalmente em 2021 após terminar o curso eu entendi que era sim onde me encaixava direitinho, eu descobri a satisfação de fazer o código dar certo, incrivelmente me divirto tentando resolver ou fazer bugs (mas também perco cabelos) e que ali no mundinho que eu crio em torno de muitos números e letras que várias vezes eu não entendo direito ainda é o que me deixa um cadiquinho mais feliz portanto depois de anos tentando entender onde eu me encaixava agora eu posso sentar na frente do PC mais tranquila sabendo o que eu tenho que fazer. Ah e sobre multimídia, ainda faz parte de mim, meu curso de Design só agregou seja em todas as tecnologias que aprendi ou combinando Front-End e Design! 
 
 
 - 🔭 Eu trabalho com:
