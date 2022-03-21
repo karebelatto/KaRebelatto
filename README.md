@@ -6,7 +6,8 @@
 Eu sou Front-end developer e Designer Digital
 
 - 🔭 Eu trabalho com 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+
 
 
 - 🌱 I’m currently learning ...
