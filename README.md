@@ -3,7 +3,7 @@
 
 ## Meu nome é Karine Rebelatto
 
-### Sou Front-end developer e Designer Digital
+### Front-end
 
 
 - Graduei em **Design Digital** pela PUC-PR em 2021, desde criança fui muito conectada com multimídia e tecnologia, brincava de editar páginas *HTML* e ser *HOST* de rádio e em 2016 me mudei para o Paraná em busca de estudar algo voltado nessa área e coincidentemente comecei Design sem saber direito o que vinha pela frente, descobri programação e desde então fiquei com uma pulguinha atrás da orelha por não ter certeza se tinha me identificado ou se era aquilo mesmo que eu devia fazer, finalmente em 2021 após terminar o curso eu entendi que era sim onde me encaixava direitinho, eu descobri a satisfação de fazer o código dar certo, incrivelmente me divirto tentando resolver ou fazer bugs *(mas também perco cabelos)* e que ali no mundinho que eu crio em torno de muitos números e letras que várias vezes eu não entendo direito ainda é o que me deixa um cadiquinho mais feliz portanto depois de anos tentando entender onde eu me encaixava agora eu posso sentar na frente do PC mais tranquila sabendo o que eu tenho que fazer. Ah e sobre **multimídia**, ainda faz parte de mim; meu curso de Design agregou em todas as tecnologias que aprendi combinando com Front-End! 
@@ -13,7 +13,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-####  <h1 align="center"> 🔭 Eu trabalho com: </h1>
+####  <h1 align="center"> Work with: </h1>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"  />
