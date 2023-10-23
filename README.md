@@ -4,9 +4,10 @@
 ## Meu nome é Karine Rebelatto
 
 - Desenvolvedora de Sistemas e Web Designer:
- C# e .NET, Entity, SQL SERVER 
- Javascript, ReactJS com Styled-Components, NODEJS, HTML, CSS ( SCSS, LESS, SASS) e WORDPRESS 
- User Research e Testes Automatizados.
+ C# e .NET, Entity, SQL SERVER
+- Javascript, ReactJS com Styled-Components,
+- NODEJS, HTML, CSS ( SCSS, LESS, SASS) e WORDPRESS 
+- User Research e Testes Automatizados.
 
 
 
