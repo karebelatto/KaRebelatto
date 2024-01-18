@@ -6,8 +6,9 @@
 - Desenvolvedora de Sistemas e Web Designer:
  C# e .NET, Entity, SQL SERVER
 - Javascript, ReactJS com Styled-Components,
-- NODEJS, HTML, CSS ( SCSS, LESS, SASS) e WORDPRESS 
-- User Research e Testes Automatizados.
+- NODEJS, HTML, CSS e WORDPRESS 
+- User Research
+- Designer Digital
 
 
 
