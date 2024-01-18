@@ -1,7 +1,7 @@
 
 
 
-## Meu nome é Karine Rebelatto
+## Karine Rebelatto
 
 - Desenvolvedora de Sistemas e Web Designer:
  C# e .NET, Entity, SQL SERVER
