@@ -2,24 +2,31 @@
 
 
 ## Karine Rebelatto
-
-- Desenvolvedora de Sistemas e Web Designer:
- C# e .NET, Entity, SQL SERVER
-- Javascript, ReactJS com Styled-Components,
-- NODEJS, HTML, CSS e WORDPRESS 
-- User Research
+ 
+- Desenvolvedora de Sistemas e Web Designer com objetivo de acrescentar e melhorar a experiência do usuário:
+- Tenho habilidades em tecnologias como C#, .NET, Entity Framework, SQL Server,
+- PostgreSQL e Microsoft Azure.
+- No front-end, sou entusiasta de Javascript, React, Node.js, HTML e CSS,
+- incluindo as variantes SCSS, LESS e SASS e também possuo conhecimento em WordPress.
+- User Research 
 - Designer Digital
+
+
 
 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-####  <h1 align="center"> Work with: </h1>
+####  <h1 align="left"> Work with: </h1>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"  />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg" width="40" heigth="40" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40"/>        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="40" heigth="40" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" width="40" height="40" />       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="40" heigth="40" />
 
 
 
