@@ -20,7 +20,7 @@
 
 ####  <h1 align="left"> Work with: </h1>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex;">
     <div class="container-md">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
     </div>
@@ -55,9 +55,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
     </div>
 </div>
-
-
-
 
 
 
